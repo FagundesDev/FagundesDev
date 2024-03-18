@@ -15,7 +15,7 @@
 
 ### Linguagens
 
-![Javascript](https://img.shields.io/badge/Javascript-282C34?style=flat&logo=javascript)
+[![Javascript](https://img.shields.io/badge/Javascript-282C34?style=flat&logo=javascript)](https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png)
 ![Typescript](https://img.shields.io/badge/Typescript-282C34?logo=typescript)
 ![HTML](https://img.shields.io/badge/HTML-282C34?logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-282C34?logo=css3&logoColor=1572B6)
