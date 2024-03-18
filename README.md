@@ -28,14 +28,3 @@
 ![SASS](https://img.shields.io/badge/SASS-282C34?logo=sass)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css)
 ![Styled components](https://img.shields.io/badge/Styled%20components-282C34?logo=styled-components)
-
-            textArrayIndex++;
-            if (textArrayIndex >= textArray.length) textArrayIndex = 0;
-            setTimeout(type, typingDelay + 1100);
-        }
-    }
-
-    document.addEventListener("DOMContentLoaded", function () {
-        setTimeout(type, newTextDelay + 250);
-    });
-</script>
