@@ -1,4 +1,4 @@
-# :sparkles: Seja bem-vindo(a)! :vulcan_salute:
+### Olá, eu sou o <span style="color:blue;" id="typed"></span>
 
 ![](https://komarev.com/ghpvc/?username=jessicamedeirosp&color=000000)
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=jessicamedeirosp&countColorcountColor&countColor=%232979ff) ![GitHub followers](https://img.shields.io/github/followers/jessicamedeirosp?label=Follow&style=social)
@@ -28,3 +28,12 @@
 ![SASS](https://img.shields.io/badge/SASS-282C34?logo=sass)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css)
 ![Styled components](https://img.shields.io/badge/Styled%20components-282C34?logo=styled-components)
+
+<script src="https://cdn.jsdelivr.net/npm/typed.js@2"></script>
+<script>
+  var typed = new Typed('#typed', {
+    strings: ['Jessica Medeiros Pocarli'],
+    typeSpeed: 100,
+    loop: false
+  });
+</script>
