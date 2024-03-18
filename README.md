@@ -5,14 +5,12 @@
 
 - :computer: Desenvolvedor +9XP
 - :open_book: Academico Em Gestão em TI
-- :mortar_board: Formado em Cyber Security
-- :clapper: Youtuber e Blogueira nas horas vagas
+- :mortar_board: Formado em Administração
 - :video_game: Jogo RedM | FiveM | Battlefield
 
 ### Redes Sociais
 
-[![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=flat&logo=youtube)](https://www.youtube.com/c/jesscoderoficial)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/jess.coder/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/correa10k/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/jessicamedeirospocarli/)
 
 ### Linguagens
