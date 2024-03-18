@@ -3,11 +3,11 @@
 ![](https://komarev.com/ghpvc/?username=jessicamedeirosp&color=000000)
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=jessicamedeirosp&countColorcountColor&countColor=%232979ff) ![GitHub followers](https://img.shields.io/github/followers/jessicamedeirosp?label=Follow&style=social)
 
-- :computer: Desenvolvedora +9XP
-- :open_book: Instrutora FullStack na Cubos Academy
-- :mortar_board: Formada em Segurança da Informação - Fatec
+- :computer: Desenvolvedor +9XP
+- :open_book: Academico Em Gestão em TI
+- :mortar_board: Formado em Cyber Security
 - :clapper: Youtuber e Blogueira nas horas vagas
-- :video_game: Jogo PubG | The Last of US | Fifa
+- :video_game: Jogo RedM | FiveM | Battlefield
 
 ### Redes Sociais
 
