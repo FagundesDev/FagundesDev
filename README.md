@@ -29,33 +29,6 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css)
 ![Styled components](https://img.shields.io/badge/Styled%20components-282C34?logo=styled-components)
 
-### Olá, eu sou o <span style="color:blue;" id="typed"></span>
-
-<script>
-    const typedTextSpan = document.querySelector("#typed");
-    const textArray = ["Fagundes"];
-    const typingDelay = 200;
-    const erasingDelay = 100;
-    const newTextDelay = 2000;
-    let textArrayIndex = 0;
-    let charIndex = 0;
-
-    function type() {
-        if (charIndex < textArray[textArrayIndex].length) {
-            typedTextSpan.textContent += textArray[textArrayIndex].charAt(charIndex);
-            charIndex++;
-            setTimeout(type, typingDelay);
-        } else {
-            setTimeout(erase, newTextDelay);
-        }
-    }
-
-    function erase() {
-        if (charIndex > 0) {
-            typedTextSpan.textContent = textArray[textArrayIndex].substring(0, charIndex - 1);
-            charIndex--;
-            setTimeout(erase, erasingDelay);
-        } else {
             textArrayIndex++;
             if (textArrayIndex >= textArray.length) textArrayIndex = 0;
             setTimeout(type, typingDelay + 1100);
