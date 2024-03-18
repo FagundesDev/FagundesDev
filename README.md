@@ -31,4 +31,4 @@
 
 ### Sistemas Operacionais
 ![Windows](https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png)
-
+![Linux](https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa)
