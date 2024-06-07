@@ -3,13 +3,13 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <br />
 
-<a href="https://www.blackcater.com" alt="blackcater's blog" target="_blank">
+<a href="LINK" alt="blackcater's blog" target="_blank">
   <img src="https://github.com/blackcater/blackcater/raw/main/images/social-blog.svg" height="40" />
 </a>
 <a href="RealCorreaF@gmail.com">
   <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" />
 </a>
-<a href="https://leetcode-cn.com/u/blackcater/">
+<a href="LINK">
   <img src="https://github.com/blackcater/blackcater/raw/main/images/social-leetcode.svg" height="40" />
 </a>
 
@@ -20,13 +20,13 @@ Hello, I'm Fagundes, I'm a guy passionate about technology, currently studying I
 
 <a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
 
-## ✏️ Recent Blog
+## ✏️ Recent Projects
 
-- <a href='http://www.blackcater.win/2019/05-18/let-your-static-page-support-https' target='_blank'>In progress
-- <a href='http://www.blackcater.win/2019/01-01/javascript-engine-shapes-ics' target='_blank'>In progress
-- <a href='http://www.blackcater.win/2019/04-09/iview-usage-experience' target='_blank'>In progress
-- <a href='http://www.blackcater.win/2019/03-01/deploy-your-own-npm-registry' target='_blank'>In progress
-- <a href='http://www.blackcater.win/2019/02-08/mini-program-usage-experience-for-finger' target='_blank'>In progress</a>
+- <a href='LINK' target='_blank'>In progress
+- <a href='LINK' target='_blank'>In progress
+- <a href='LINK' target='_blank'>In progress
+- <a href='LINK' target='_blank'>In progress
+- <a href='LINK' target='_blank'>In progress
 
 <!-- blog_plugin_start -->
 
@@ -36,14 +36,14 @@ Hello, I'm Fagundes, I'm a guy passionate about technology, currently studying I
 
 ## ⛳️ Project Release
 
-- <a href='https://github.com/blackcater/blackcater/releases/tag/v1.0.4' target='_blank'>blackcater@v1.0.4</a> - 2021-05-04
+- <a href='LINK' target='_blank'>blackcater@v1.0.4</a> - DATE
   <br/> Support pre-release.
-- <a href='https://github.com/blackcater-labs/unisite/releases/tag/v0.1.0-alpha.3' target='_blank'>unisite@v0.1.0-alpha.3<sup>pre-release</sup></a> - 2021-04-29
+- <a href='LINK' target='_blank'>In Process<sup></sup></a> - DATE
   <br/> Migrate to windicss.
-- <a href='https://github.com/blackcater/gatsby-plugin-windicss/releases/tag/0.1.0' target='_blank'>gatsby-plugin-windicss@0.1.0</a> - 2021-05-14
+- <a href='LINK' target='_blank'>gatsby-plugin-windicss@0.1.0</a> - DATE
   <br/> Support windicss@3
-- <a href='https://github.com/blackcater/LeetCodeCN-Dark/releases/tag/v1.4.3' target='_blank'>LeetCodeCN-Dark@v1.4.3</a> - 2021-02-07
-- <a href='https://github.com/blackcater/my-own-dockerfile/releases/tag/1.5.0' target='_blank'>my-own-dockerfile@1.5.0</a> - 2018-01-18
+- <a href='LINK' target='_blank'>LeetCodeCN-Dark@v1.4.3</a> - DATE
+- <a href='LINK' target='_blank'>my-own-dockerfile@1.5.0</a> - DATE
 
 <!-- github_plugin_end -->
 
