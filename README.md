@@ -59,7 +59,7 @@ Hello, I'm Fagundes, I'm a guy passionate about technology, currently studying I
 <p>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/logo-javascript.svg" height="40" style="vertical-align:down; margin:4px" alt="javascript">
 <img src="https://github.com/blackcater/blackcater/raw/main/images/logo-typescript.svg" height="40" style="vertical-align:down; margin:4px" alt="typescript">
-<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-nodejs.svg" height="40" style="vertical-align:down; margin:4px" alt="nodejs">
+<img src="https://media.discordapp.net/attachments/1102336119913324626/1248726184208891904/6f8415ffc78eaee0b44d053a1b79f096.png?ex=6664b662&is=666364e2&hm=3979ee09e8807a33ba6702fad59f3873e645a6393738960a6c7c161b40840660&=&format=webp&quality=lossless&width=468&height=468" height="40" style="vertical-align:down; margin:4px" alt="nodejs">
 <img src="https://github.com/blackcater/blackcater/raw/main/images/logo-golang.svg" height="40" style="vertical-align:down; margin:4px" alt="golang">
 </p>
 
