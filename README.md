@@ -59,7 +59,7 @@ Hello, I'm Fagundes, I'm a guy passionate about technology, currently studying I
 <p>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/logo-javascript.svg" height="40" style="vertical-align:down; margin:4px" alt="javascript">
 <img src="https://media.discordapp.net/attachments/1102336119913324626/1248726852676096060/kisspng-html-computer-icons-5ae0b5fc4c9543.3741052015246760923137.png?ex=6664b701&is=66636581&hm=03a6f27c2f1b94fb748b478cab46f80690af6f3068fa3cca730e826d82563440&=&format=webp&quality=lossless&width=468&height=468" height="40" style="vertical-align:down; margin:4px" alt="typescript">
-<img src="https://media.discordapp.net/attachments/1102336119913324626/1248726184208891904/6f8415ffc78eaee0b44d053a1b79f096.png?ex=6664b662&is=666364e2&hm=3979ee09e8807a33ba6702fad59f3873e645a6393738960a6c7c161b40840660&=&format=webp&quality=lossless&width=468&height=468" height="40" style="vertical-align:down; margin:4px" alt="nodejs">
+<img src="https://media.discordapp.net/attachments/1102336119913324626/1248727391254220840/transparent-python-logo-blue-and-yellow-python-logo-represents-python-lang65ba0d1859e935.6667290417066918643683.png?ex=6664b782&is=66636602&hm=633e2e3135e88ff5545a4d68a177f7c3f731ac2ea1ab1f0a0bb1f03e40bb2930&=&format=webp&quality=lossless&width=468&height=468" height="40" style="vertical-align:down; margin:4px" alt="nodejs">
 </p>
 
 <!-- badge_plugin_start -->
