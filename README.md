@@ -6,7 +6,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <a href="https://www.blackcater.com" alt="blackcater's blog" target="_blank">
   <img src="https://github.com/blackcater/blackcater/raw/main/images/social-blog.svg" height="40" />
 </a>
-<a href="mailto:i@blackcater.dev">
+<a href="RealCorreaF@gmail.com">
   <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" />
 </a>
 <a href="https://leetcode-cn.com/u/blackcater/">
@@ -16,17 +16,17 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <br />
 <br />
 
-Hi, I'm Elon Tang, a frontend engineer from China 🇨🇳. Dedicated to being a fullstack engineer.
+Hello, I'm Fagundes, I'm a guy passionate about technology, currently studying IT Management and graduating in administration.
 
 <a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
 
 ## ✏️ Recent Blog
 
-- <a href='http://www.blackcater.win/2019/05-18/let-your-static-page-support-https' target='_blank'>让你的静态页面支持 https</a> - 2019-05-18
-- <a href='http://www.blackcater.win/2019/01-01/javascript-engine-shapes-ics' target='_blank'>JavaScript引擎基础：形与行内缓存（翻译）</a> - 2019-05-01
-- <a href='http://www.blackcater.win/2019/04-09/iview-usage-experience' target='_blank'>iview 使用经验总结</a> - 2019-04-09
-- <a href='http://www.blackcater.win/2019/03-01/deploy-your-own-npm-registry' target='_blank'>搭建私有npm镜像</a> - 2019-03-01
-- <a href='http://www.blackcater.win/2019/02-08/mini-program-usage-experience-for-finger' target='_blank'>“Finger 音乐课堂”小程序开发总结</a> - 2019-02-08
+- <a href='http://www.blackcater.win/2019/05-18/let-your-static-page-support-https' target='_blank'>In progress
+- <a href='http://www.blackcater.win/2019/01-01/javascript-engine-shapes-ics' target='_blank'>In progress
+- <a href='http://www.blackcater.win/2019/04-09/iview-usage-experience' target='_blank'>In progress
+- <a href='http://www.blackcater.win/2019/03-01/deploy-your-own-npm-registry' target='_blank'>In progress
+- <a href='http://www.blackcater.win/2019/02-08/mini-program-usage-experience-for-finger' target='_blank'>In progress</a>
 
 <!-- blog_plugin_start -->
 
