@@ -1,70 +1,37 @@
-<h1 align="center">Hi there, I'm <a href="https://www.instagram.com/correa10k/" target="_blank">Fagundes</a> <img
-src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
+![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
-<br />
+## Sobre mim
 
-<a href="LINK" alt="blackcater's blog" target="_blank">
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-blog.svg" height="40" />
-</a>
-<a href="RealCorreaF@gmail.com">
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" />
-</a>
-<a href="LINK">
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-leetcode.svg" height="40" />
-</a>
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando {Gestão T.I} na {FASUL}.
+- 🌱 Aprendendo mais sobre {Engenharia Reversa e Cybersecurity}.
 
-<br />
-<br />
+## Minhas Skills
 
-Hello, I'm Fagundes, I'm a guy passionate about technology, currently studying IT Management and graduating in administration.
+**Aplicações e dados**
 
-<a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
-
-## ✏️ Recent Projects
-
-- <a href='LINK' target='_blank'>In progress
-- <a href='LINK' target='_blank'>In progress
-- <a href='LINK' target='_blank'>In progress
-- <a href='LINK' target='_blank'>In progress
-- <a href='LINK' target='_blank'>In progress
-
-<!-- blog_plugin_start -->
-
-<!-- blog_plugin_end -->
-
-<!-- github_plugin_start -->
-
-## ⛳️ Project Release
-
-- <a href='LINK' target='_blank'>blackcater@v1.0.4</a> - DATE
-  <br/> Support pre-release.
-- <a href='LINK' target='_blank'>In Process<sup></sup></a> - DATE
-  <br/> Migrate to windicss.
-- <a href='LINK' target='_blank'>gatsby-plugin-windicss@0.1.0</a> - DATE
-  <br/> Support windicss@3
-- <a href='LINK' target='_blank'>LeetCodeCN-Dark@v1.4.3</a> - DATE
-- <a href='LINK' target='_blank'>my-own-dockerfile@1.5.0</a> - DATE
-
-<!-- github_plugin_end -->
-
-<!-- wakatime_plugin_start -->
-
-## 🌗 Weekly Development Breakdown
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 
-<!-- wakatime_plugin_end -->
+**DevOps**
 
-**Languages and Tools:**
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-<p>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-javascript.svg" height="40" style="vertical-align:down; margin:4px" alt="javascript">
-<img src="https://media.discordapp.net/attachments/1102336119913324626/1248726852676096060/kisspng-html-computer-icons-5ae0b5fc4c9543.3741052015246760923137.png?ex=6664b701&is=66636581&hm=03a6f27c2f1b94fb748b478cab46f80690af6f3068fa3cca730e826d82563440&=&format=webp&quality=lossless&width=468&height=468" height="40" style="vertical-align:down; margin:4px" alt="typescript">
-<img src="https://media.discordapp.net/attachments/1102336119913324626/1248727391254220840/transparent-python-logo-blue-and-yellow-python-logo-represents-python-lang65ba0d1859e935.6667290417066918643683.png?ex=6664b782&is=66636602&hm=633e2e3135e88ff5545a4d68a177f7c3f731ac2ea1ab1f0a0bb1f03e40bb2930&=&format=webp&quality=lossless&width=468&height=468" height="40" style="vertical-align:down; margin:4px" alt="nodejs">
-</p>
+**Ferramentas de desenvolvimento**
 
-<!-- badge_plugin_start -->
-
----
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
 
-<!-- badge_plugin_end -->
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-correa10k-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Gmail Badge](https://img.shields.io/badge/-realcorreaf@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:realcorreaf@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
